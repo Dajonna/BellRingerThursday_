@@ -4,4 +4,4 @@ og=gets.chomp.to_i
 
 puts dog+og
 puts dog-og
-puts dog*og
+puts dog*og 
